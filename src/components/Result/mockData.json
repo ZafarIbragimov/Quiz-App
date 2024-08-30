@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Dasturlashda, ternar operator asosan qaysi simbol(lar) bilan ta'riflanadi?",
+    "user_answer": "?:",
+    "correct_answer": "?:",
+    "point": 1
+  },
+  {
+    "question": "Qaysi dasturlash tili Indoneziyadagi orolning nomi bilan ataladi?",
+    "user_answer": "Java",
+    "correct_answer": "Java",
+    "point": 1
+  },
+  {
+    "question": "Twitter'da, bir Tweet uchun asl belgi chegarasi necha edi?",
+    "user_answer": "140",
+    "correct_answer": "140",
+    "point": 1
+  },
+  {
+    "question": "RFC 1459-da hujjatlashtirilgan internet protokoli nima edi?",
+    "user_answer": "FTP",
+    "correct_answer": "IRC",
+    "point": 0
+  },
+  {
+    "question": "Agar siz ushbu dasturlash tilida dastur yozsangiz, faqat 0 va 1 raqamlarini kiritishingiz mumkin bo'ladi.",
+    "user_answer": "Binary",
+    "correct_answer": "Binary",
+    "point": 1
+  }
+]

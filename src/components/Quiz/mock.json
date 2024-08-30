@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Ilm-fan: Kompyuterlar",
+    "type": "multiple",
+    "difficulty": "o'rtacha",
+    "question": "CSS-da &quot;position&quot; xususiyati bilan qaysi qiymat ishlatilmaydi?",
+    "correct_answer": "markazda",
+    "incorrect_answers": ["statik", "absolyut", "nisbiy"],
+    "options": ["statik", "nisbiy", "markazda", "absolyut"]
+  },
+  {
+    "category": "Ilm-fan: Kompyuterlar",
+    "type": "multiple",
+    "difficulty": "oson",
+    "question": "IPv6 manzilining uzunligi qancha?",
+    "correct_answer": "128 bit",
+    "incorrect_answers": ["32 bit", "64 bit", "128 bayt"],
+    "options": ["128 bit", "64 bit", "128 bayt", "32 bit"]
+  },
+  {
+    "category": "Ilm-fan: Kompyuterlar",
+    "type": "multiple",
+    "difficulty": "o'rtacha",
+    "question": "Server xosting sanoatida IaaS nimani anglatadi?",
+    "correct_answer": "Xizmat sifatida infratuzilma",
+    "incorrect_answers": [
+      "Internet sifatida xizmat",
+      "Internet va server",
+      "Xizmat sifatida infratuzilma"
+    ],
+    "options": [
+      "Xizmat sifatida infratuzilma",
+      "Internet va server",
+      "Internet sifatida xizmat",
+      "Xizmat sifatida infratuzilma"
+    ]
+  },
+  {
+    "category": "Ilm-fan: Kompyuterlar",
+    "type": "multiple",
+    "difficulty": "o'rtacha",
+    "question": "Yagona aniqlikdagi suzuvchi nuqta sonining signifikant qismida nechta bit bor?",
+    "correct_answer": "23",
+    "incorrect_answers": ["8", "53", "15"],
+    "options": ["53", "15", "8", "23"]
+  },
+  {
+    "category": "Ilm-fan: Kompyuterlar",
+    "type": "multiple",
+    "difficulty": "o'rtacha",
+    "question": "Dasturlashda bir xil nomga ega lekin turli amalga oshirishlarni nima deb ataladi?",
+    "correct_answer": "Yuklash",
+    "incorrect_answers": ["O'zgartirish", "Abstraktlashtirish", "Merosit"],
+    "options": ["O'zgartirish", "Merosit", "Abstraktlashtirish", "Yuklash"]
+  }
+]
